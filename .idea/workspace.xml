@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbbe5265-488b-451b-bf41-e74a68904e32" name="Default Changelist" comment="" />
+    <list default="true" id="bbbe5265-488b-451b-bf41-e74a68904e32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="273">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -203,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.edu.ucsd.cs110.tests in ideaProjects">
+  <component name="RunManager" selected="JUnit.CelsiusTest">
     <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.temperature.TemperatureConverter" />
       <module name="ideaProjects" />
@@ -263,8 +265,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.edu.ucsd.cs110.tests in ideaProjects" />
         <item itemvalue="JUnit.CelsiusTest" />
+        <item itemvalue="JUnit.edu.ucsd.cs110.tests in ideaProjects" />
         <item itemvalue="JUnit.FahrenheitTest" />
         <item itemvalue="Application.TemperatureConverter" />
       </list>
@@ -281,14 +283,11 @@
       <option name="presentableId" value="Default" />
       <updated>1556733643739</updated>
       <workItem from="1556733645015" duration="302000" />
-      <workItem from="1556736589560" duration="7143000" />
+      <workItem from="1556736589560" duration="7350000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FahrenheitTest - 2019.05.01 at 14h 03m 21s.xml">
-      <configuration name="FahrenheitTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FahrenheitTest - 2019.05.01 at 14h 04m 20s.xml">
       <configuration name="FahrenheitTest" configurationId="JUnit" />
     </history-entry>
@@ -316,9 +315,12 @@
     <history-entry file="edu_ucsd_cs110_tests_in_ideaProjects - 2019.05.01 at 14h 50m 14s.xml">
       <configuration name="edu.ucsd.cs110.tests in ideaProjects" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_ideaProjects - 2019.05.01 at 15h 05m 19s.xml">
+      <configuration name="edu.ucsd.cs110.tests in ideaProjects" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7445000" />
+    <option name="totallyTimeSpent" value="7652000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="273">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
         </state>
       </provider>
     </entry>
