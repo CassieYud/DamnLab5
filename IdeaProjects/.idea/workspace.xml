@@ -280,20 +280,11 @@
       <option name="presentableId" value="Default" />
       <updated>1556733643739</updated>
       <workItem from="1556733645015" duration="302000" />
-      <workItem from="1556736589560" duration="6575000" />
+      <workItem from="1556736589560" duration="6725000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CelsiusTest - 2019.05.01 at 13h 58m 26s.xml">
-      <configuration name="CelsiusTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CelsiusTest - 2019.05.01 at 14h 02m 05s.xml">
-      <configuration name="CelsiusTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FahrenheitTest - 2019.05.01 at 14h 02m 11s.xml">
-      <configuration name="FahrenheitTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FahrenheitTest - 2019.05.01 at 14h 03m 21s.xml">
       <configuration name="FahrenheitTest" configurationId="JUnit" />
     </history-entry>
@@ -315,9 +306,18 @@
     <history-entry file="edu_ucsd_cs110_tests_in_ideaProjects - 2019.05.01 at 14h 36m 29s.xml">
       <configuration name="edu.ucsd.cs110.tests in ideaProjects" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_ideaProjects - 2019.05.01 at 14h 46m 47s.xml">
+      <configuration name="edu.ucsd.cs110.tests in ideaProjects" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_ideaProjects - 2019.05.01 at 14h 50m 07s.xml">
+      <configuration name="edu.ucsd.cs110.tests in ideaProjects" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_ideaProjects - 2019.05.01 at 14h 50m 14s.xml">
+      <configuration name="edu.ucsd.cs110.tests in ideaProjects" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6877000" />
+    <option name="totallyTimeSpent" value="7027000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,7 +332,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -342,7 +342,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2614458" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
