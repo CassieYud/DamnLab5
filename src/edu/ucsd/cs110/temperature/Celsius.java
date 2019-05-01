@@ -18,7 +18,7 @@ public class Celsius extends Temperature {
     @Override
     public Temperature toFahrenheit() {
         float t = (float) (this.temp * 1.8 + 32);
-        Temperature toReturn = new Fahrenheit(0);
+        Temperature toReturn = new Fahrenheit(t);
         return toReturn;
     }
 
